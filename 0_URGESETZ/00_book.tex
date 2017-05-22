@@ -1,0 +1,137 @@
+%
+% Body text font is Palatino!
+%
+
+\documentclass[
+a5paper,
+pagesize,
+10pt,
+bibtotoc,
+pointlessnumbers,
+%normalheadings,
+headings=small,
+notitlepage,
+DIV=16,
+twoside]{scrbook}
+
+%\documentclass[a5paper,pagesize,10pt,bibtotoc,pointlessnumbers,
+%normalheadings,twoside=true]{scrbook}
+
+% twoside, openright
+\KOMAoptions{DIV=last}
+
+
+
+
+
+\makeatletter
+\renewcommand*\l@part[2]{%
+   \ifnum \c@tocdepth >-2\relax
+     \addpenalty{-\@highpenalty}%
+     \addvspace{2.25em \@plus\p@}%
+     \setlength\@tempdima{3em}%
+     \begingroup
+       \parindent \z@ \rightskip \@pnumwidth
+       \parfillskip -\@pnumwidth
+       {\leavevmode
+        \hspace*{\fill}\centering\large\bfseries #1\hspace*{\fill}\llap{#2}}\par
+        \nobreak
+          \global\@nobreaktrue
+          \everypar{\global\@nobreakfalse\everypar{}}%
+     \endgroup
+   \fi}
+\makeatother
+
+
+
+
+\usepackage{trajan}
+ 
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[babel,german=guillemets]{csquotes}
+
+\usepackage[sc]{mathpazo}
+%\linespread{1.05} 
+\linespread{1} 
+\usepackage{verbatim} % for comments
+\usepackage{listings} % for comments
+
+%\setlength{\parindent}{10pt}
+%\setlength{\parskip}{1.4ex plus 0.35ex minus 0.3ex}
+%\setlength{\parskip}{1.4ex plus 0.35ex minus 0.3ex}
+
+\usepackage{blindtext}
+\newcommand{\q}[1]{>>\textit{#1}<<}
+
+\title{A book title}   
+\author{Author Name} 
+\date{\today} 
+
+
+
+
+
+\begin{document}
+
+%=========================================
+\begin{comment}
+
+\begin{titlepage}
+		\centering{
+			{\fontsize{40}{48}\selectfont 
+			A book title}
+		}\\
+			
+		\vspace{10mm}
+		\centering{\Large{Author Name}}\\
+		\vspace{\fill}
+		\centering \large{2011}
+\end{titlepage}
+\newpage{}
+\thispagestyle {empty}
+
+\vspace*{2cm}
+
+\begin{center}
+	\Large{\parbox{10cm}{
+		\begin{raggedright}
+		{\Large 
+			\textit{Do what you think is interesting, 
+			do something that you think is fun and worthwhile, 
+			because otherwise you won’t do it well anyway.}
+		}
+	
+		\vspace{.5cm}\hfill{---Brian W. Kernighan}
+		\end{raggedright}
+	}
+}
+\end{center}
+\end{comment}
+%=========================================
+
+\renewcommand\partname{Buch}
+\renewcommand\contentsname{\centering Inhaltsverzeichnis}
+\tableofcontents
+\newpage
+\pagestyle{plain}
+\setcounter{secnumdepth}{0} % sections are level 1
+\include{01-vorwort}
+\include{1/1-erstes_buch}
+
+
+
+\newpage
+
+%=========================================
+%\blinddocument
+
+
+%=========================================
+\begin{comment}
+Just some notes, not visible in pdf.
+\end{comment}
+
+
+\end{document}
