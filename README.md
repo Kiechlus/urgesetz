@@ -4,7 +4,7 @@ Dieses Beispiel zeigt, wie ein Buch gescannt und daraus ein pdf bzw. ein Ebook e
 |Name |Beschreibung   |
 |---|---|
 |  tesseract |  Kostenloses Programm zur Texterkennung, um aus Bilddateien (.tiff) Textdateien (.txt) zu erstellen.|
-|VIM   | Beliebter Editor in UNIX zur Bearbeitung des Rohtexts. Stattdessen können jeder andere Editor oder jede Skriptsprache verwendet werden, die mit "regular expressions" zurecht kommen.   |
+|Vim   | Beliebter Editor in UNIX zur Bearbeitung des Rohtexts. Stattdessen können jeder andere Editor oder jede Skriptsprache verwendet werden, die mit "regular expressions" zurecht kommen.   |
 |Latex  |Setzen des Buches zum Erstellen von pdf.   |
 
 ## Scannen
@@ -49,16 +49,28 @@ Text handelt (ohne werden z.B. keine Umlaute erkannt).
 ### Bearbeiten des Rohtextes
 
 OCR mit _tesseract_ funktioniert erstaunlich gut. Trotzdem kommt es zu Fehlern und außerdem müssen Silbentrennungen entfernt 
-werden. Mithilfe sogenannter *Regulärer Ausdrücke* (engl. regular expressions) kann man hier viel erreichen. 
+werden. Mithilfe sogenannter **Regulärer Ausdrücke** (engl. regular expressions) kann man hier viel erreichen. 
 
 Im einfachsten Fall ist ein regulärer Ausdruck wie eine normale Textsuche. Zum beispiel würde `/haus/` das "haus" in Baumhaus finden. 
 Mit regulären Ausdrücken kann jedoch nach jedem erdenklichen Muster in Texten gesucht werden. Zum Beispiel würde `/[Hh]aus/` 
 sowohl auf Haus, wie auch auf Baumhaus passen.
 
-[Diese Datei](./replacements.txt) zeigt alle
+[Diese Datei](./replacements.txt) zeigt alle regulären Ausdrücke, die ich zur Verbesserung des Rohtextes verwendet habe. 
+Es sind [Ersetzungsbefehle](http://vim.wikia.com/wiki/Search_and_replace) für den Texteditor _Vim_, die darin enthalten 
+regulären Ausdrücke können jedoch auch in anderen Editoren oder in Programmiersprachen verwendet werden. 
 
+|Regulärer Ausdruck |Beschreibung   |
+|---|---|
+| `%s/2u/zu/g`|Ersetze _2u_ mit _zu_ im ganzen Dokument.|
+|`%s/und\./und/g`|Ersetze _und._ mit _und_ im ganzen Dokument. Da der Punkt in regulären Ausdrücken für jedes Zeichen steht, muss mit "\\" escaped werden, um den wirklichen Punkt zu suchen.| 
+|`%s/\([a-zA-Z]\)1\([a-zA-Z]\)/\1i\2/g`|Oftmals erkannte tesseract innerhalb von Wörtern ein _i_ fälschlicherweise als _1_. Das wollen wir natürlich nicht, können aber auch nicht pauschal alle einsen mit _i_ ersetzen. Dieser Ausdruck sucht deshalb nach Wörtern die eine eins zwischen zwei Buchstaben haben und ersetzt diese entsprechend. Die runden Klammern in _([a..z])_ sind sogenannte "capture groups", die das gesuchte Zeichen speichern und die beim ersetzen mit _\\1_ (=1. capture group) referenziert werden können. Somit wird zum Beispiel _e1n_ zu _ein_ und _h1n_ zu _hin_.|
+|<nobr>`%s/\([^ ]\+\)[-—«»"]\n\([^ ]\+\)/\r\1\2/g`</nobr>|Silbentrennungen sollen entfernt werden, und zwar so, dass vor dem getrennten Wort ein neuer Absatz eingefügt wird. Hier wird nach Wörtern gesucht, die eines der Trennzeichen _[-—«»"]_ gefolgt von einem Absatz enthalten. Das Trennzeichen wird entfernt und stattdessen wird vor dem Wort ein neuer Absatz eingefügt.|
 
 
 ## Setzen
 
-https://www.sharelatex.com/project/590b352cd50983d3138d1865
+Zum Setzen des Buches, also zur Erstellung von pdf oder andreren Formaten aus reinem Text wird **Latex** verwendet.
+Prinzipiell könnte man auch Word verwenden, das führt jedoch zu unschönerem Ergebnis und der Prozess ist nervenaufreibender.
+
+Dank [Sharelatex](www.sharelatex.com) entfällt die manchmal aufwendige Latex Installation. Der Latex Satz dieses Beispielprojekts kann
+hier im lesenden Modus abgerufen werden: https://www.sharelatex.com/project/590b352cd50983d3138d1865 .
