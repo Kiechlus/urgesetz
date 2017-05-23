@@ -1,0 +1,77 @@
+Kille alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:  
+%s/\([^ ]\+\)[-—«»"]\n\([^ ]\+\)/\r\1\2/g
+
+%s/—/-/g
+%s/]/J/g
+%s/O1/Öl/g
+%s/'a'/ä/g
+%s/'/ /g
+%s/\$/s/g
+%s/é/e/g
+%s/d1/ch/g
+Beispiel: gew1ss
+%s/\([a-zA-Z]\)1\([a-zA-Z]\)/\1i\2/g
+Beispiel: herge5tellten
+%s/\([a-zA-Z]\)5\([a-zA-Z]\)/\1s\2/g
+Beispiel: selt3am
+%s/3\([a-z]\)/s\1/g
+%s/2u/zu/g
+%s/nidit/nicht/g
+%s/sdi/sch/gc
+%s/audi/auch/gc
+%s/2. B./z. B./g
+Beispiel: 0chse
+%s/0\([a-z]\)/o\1/g
+%s/und\./und/g
+%s/Sidi/sich/g
+%s/Lufl/Luft/g
+%s/lidi/lich/g
+%s/Krafl/Kraft/g
+Beispiel: Safl -> Saft
+%%s/afl/aft/g
+%s/stofl/stoff/g
+
+%s/ﬂ/fl/g
+%s/ﬁn/fin/g
+%s/ﬁl/fil/g
+%s/aﬁ/aft/g
+%s/äﬁ/äft/g
+%s/oﬁ/off/g
+%s/Luﬁ/Luft/g
+Hier suche manuall nach ﬁ falls Lust
+%s/ﬁ/fi/g
+
+Suche manuell: ii die nicht zu ü werden. Dann ersetze ii->ü
+%s/ii/ü/g
+%s/breüg/breiig/g
+
+
+%s/[’‘]c/t/g
+%s/[’‘]sch/'sch/gc
+
+LÖSCHUNGEN (suche vorher manuell, falls gewünscht)
+%s/[’‘%<>\\]//g
+
+BLANK Ersetzungen
+- Suche manuall nach « und », manchmal als Bindestrich gebraucht: Saft« und Blutbahnen. 
+  Lösche auch überall, wo sie innerhalb eines Wortes sind. Rausch»gift.
+- Suche manuell nach _
+%s/[»«"_]/ /g
+
+MANUALL
+rnm -> mm
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
