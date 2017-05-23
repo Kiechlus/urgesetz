@@ -7,6 +7,13 @@ Dieses Beispiel zeigt, wie ein Buch gescannt und daraus ein pdf bzw. ein Ebook e
 |Vim   | Beliebter Editor in UNIX zur Bearbeitung des Rohtexts. Stattdessen können jeder andere Editor oder jede Skriptsprache verwendet werden, die mit "regular expressions" zurecht kommen.   |
 |Latex  |Setzen des Buches zum Erstellen von pdf.   |
 
+**Inhaltsverzeichnis**
+1. [Scannen](##Scannen)
+2. [Texterkennung](##Aus Bildern Text erstellen)
+3. [Setzen](##Setzen)
+
+
+
 ## Scannen
 
 Es tut wohl jeder Scanner. Die großen Büroscanner erleichtern einem die Arbeit, weil sie sehr schnell sind und automatisiert 
@@ -69,7 +76,7 @@ regulären Ausdrücke können jedoch auch in anderen Editoren oder in Programmie
 
 ## Setzen
 
-Zum Setzen des Buches, also zur Erstellung von pdf oder andreren Formaten aus reinem Text wird **Latex** verwendet.
+Zum Setzen des Buches, also zur Erstellung von pdf oder andreren Formaten aus reinem Text, wird **Latex** verwendet.
 Prinzipiell könnte man auch Word verwenden, das führt jedoch zu unschönerem Ergebnis und der Prozess ist nervenaufreibender.
 
 Dank [Sharelatex](www.sharelatex.com) entfällt die manchmal aufwendige Latex Installation. Der Latex Satz dieses Beispielprojekts kann
