@@ -62,7 +62,7 @@ Im einfachsten Fall ist ein regulärer Ausdruck wie eine normale Textsuche. Zum 
 Mit regulären Ausdrücken kann jedoch nach jedem erdenklichen Muster in Texten gesucht werden. Zum Beispiel würde `/[Hh]aus/` 
 sowohl auf Haus, wie auch auf Baumhaus passen.
 
-[Diese Datei](./replacements.txt) zeigt alle regulären Ausdrücke, die ich zur Verbesserung des Rohtextes verwendet habe. 
+[Diese Datei](./replacements.txt) zeigt alle regulären Ausdrücke, die zur Verbesserung des Rohtextes verwendet wurden. 
 Es sind [Ersetzungsbefehle](http://vim.wikia.com/wiki/Search_and_replace) für den Texteditor _Vim_, die darin enthalten 
 regulären Ausdrücke können jedoch auch in anderen Editoren oder in Programmiersprachen verwendet werden. 
 
@@ -80,4 +80,8 @@ Zum Setzen des Buches, also zur Erstellung von pdf oder andreren Formaten aus re
 Prinzipiell könnte man auch Word verwenden, das führt jedoch zu unschönerem Ergebnis und der Prozess ist nervenaufreibender.
 
 Dank [Sharelatex](www.sharelatex.com) entfällt die manchmal aufwendige Latex Installation. Der Latex Satz dieses Beispielprojekts kann
-hier im lesenden Modus abgerufen werden: https://www.sharelatex.com/project/590b352cd50983d3138d1865 .
+hier im lesenden Modus abgerufen werden: https://www.sharelatex.com/project/590b352cd50983d3138d1865 . Die Datai _00_book.tex_ ist das 
+ Hauptdokument, indem die meisten Einstellungen zu finden sind und von dem aus der eigentliche Text verlinkt ist (Referenzen
+ zu anderen .tex Dataien).
+ 
+ Die wichtigsten Befehle werden direkt als Kommentar erklärt (work-in-progress).
