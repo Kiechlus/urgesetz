@@ -8,9 +8,9 @@ Dieses Beispiel zeigt, wie ein Buch gescannt und daraus ein pdf bzw. ein Ebook e
 |Latex  |Setzen des Buches zum Erstellen von pdf.   |
 
 **Inhaltsverzeichnis**
-1. [Scannen](##Scannen)
-2. [Texterkennung](##Aus Bildern Text erstellen)
-3. [Setzen](##Setzen)
+1. [Scannen](##scannen)
+2. [Texterkennung](#aus-bildern-text-erstellen)
+3. [Setzen](##setzen)
 
 
 
