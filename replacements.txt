@@ -6,7 +6,6 @@ Kille alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:
 %s/O1/Öl/g
 %s/Ols/Öls/g
 %s/'a'/ä/g
-%s/'/ /g
 %s/\$/s/g
 %s/é/e/g
 %s/d1/ch/g
@@ -59,7 +58,7 @@ BLANK Ersetzungen
 - Suche manuall nach « und », manchmal als Bindestrich gebraucht: Saft« und Blutbahnen. 
   Lösche auch überall, wo sie innerhalb eines Wortes sind. Rausch»gift.
 - Suche manuell nach _
-%s/[»«"_]/ /g
+%s/[»«"_']/ /g
 
 MANUALL
 rnm -> mm
