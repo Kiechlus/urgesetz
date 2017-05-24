@@ -76,7 +76,7 @@ regulären Ausdrücke können jedoch auch in anderen Editoren oder in Programmie
 
 ## Setzen
 
-Zum Setzen des Buches, also zur Erstellung von pdf oder andreren Formaten aus reinem Text, wird **Latex** verwendet.
+Zum Setzen des Buches, also zur Erstellung von pdf oder anderen Formaten aus reinem Text, wird **Latex** verwendet.
 Prinzipiell könnte man auch Word verwenden, das führt jedoch zu unschönerem Ergebnis und der Prozess ist nervenaufreibender.
 
 Dank [Sharelatex](www.sharelatex.com) entfällt die manchmal aufwendige Latex Installation. Der Latex Satz dieses Beispielprojekts kann

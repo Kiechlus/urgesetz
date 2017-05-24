@@ -4,6 +4,7 @@ Kille alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:
 %s/—/-/g
 %s/]/J/g
 %s/O1/Öl/g
+%s/Ols/Öls/g
 %s/'a'/ä/g
 %s/'/ /g
 %s/\$/s/g
@@ -29,6 +30,8 @@ Beispiel: 0chse
 %s/Krafl/Kraft/g
 Beispiel: Safl -> Saft
 %%s/afl/aft/g
+%s/äfl/äft/g
+%s/äff/äft/g
 %s/stofl/stoff/g
 
 %s/ﬂ/fl/g
