@@ -32,6 +32,9 @@ Beispiel: Safl -> Saft
 %s/äfl/äft/g
 %s/äff/äft/g
 %s/stofl/stoff/g
+%s/ off / oft /g
+%s/afi/aft/g
+%s/äfi/äft/g
 
 %s/ﬂ/fl/g
 %s/ﬁn/fin/g
