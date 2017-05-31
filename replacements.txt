@@ -31,10 +31,15 @@ Beispiel: Safl -> Saft
 %%s/afl/aft/g
 %s/äfl/äft/g
 %s/äff/äft/g
+%s/saff/saft/g
+%s/Luff/Luft/g
 %s/stofl/stoff/g
 %s/ off / oft /g
 %s/afi/aft/g
 %s/äfi/äft/g
+Beispiel: Olstoff -> Ölstoff aber NICHT Olive -> Ölive
+%s/Ol\([^i]\)/Öl\1/g
+
 
 %s/ﬂ/fl/g
 %s/ﬁn/fin/g
