@@ -1,4 +1,4 @@
-# Scannen und setzen des Buches
+# Vom Buch zum Ebook (pdf)
 Dieses Beispiel zeigt, wie ein Buch gescannt und daraus ein pdf bzw. ein Ebook erstellt wird. Folgende Programme wurden verwendet:
 
 |Name |Beschreibung   |
@@ -32,7 +32,7 @@ Texte müssen heute nicht mehr abgetippt werden. Texterkennungsprogramme analysi
 
 ### Texterkennung, engl. "Optical Character Recognition" (OCR)
 Die kostenlose OCR Software ["Tesseract"](https://de.wikipedia.org/wiki/Tesseract_(Software)) von Google liefert sehr 
-gute Ergebnisse. Die folgenden Anweisungen zeigen die Installation und Handhabung von Tesseract unter UNIX. Die Software 
+gute Ergebnisse. Die folgenden Anweisungen zeigen die Installation und Handhabung von Tesseract unter UNIX (Ubuntu). Die Software 
 ist jedoch auch für [Windows erhältlich](https://github.com/TesseractTeam/Tesseract/wiki/Installation-on-Windows).
 
 #### Installation
