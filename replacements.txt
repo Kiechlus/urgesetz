@@ -39,7 +39,7 @@ Beispiel: Safl -> Saft
 %s/äfi/äft/g
 Beispiel: Olstoff -> Ölstoff aber NICHT Olive -> Ölive
 %s/Ol\([^i]\)/Öl\1/g
-
+%s/fce/fte/g
 
 %s/ﬂ/fl/g
 %s/ﬁn/fin/g
