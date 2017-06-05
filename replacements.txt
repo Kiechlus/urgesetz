@@ -1,6 +1,5 @@
-Kille alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:  
+Lösche alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:
 %s/\([^ ]\+\)[-—«»"]\n\([^ ]\+\)/\r\1\2/g
-
 %s/—/-/g
 %s/]/J/g
 %s/O1/Öl/g
