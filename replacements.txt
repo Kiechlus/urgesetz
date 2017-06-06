@@ -1,6 +1,10 @@
-Lösche alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein:
-%s/\([^ ]\+\)[-—«»"]\n\([^ ]\+\)/\r\1\2/g
-%s/—/-/g
+Lösche alle Silbentrennungen und füge einen Absatz vor dem getrennten Wort ein.
+Hierbei muss der lange Bindestrich "—" separat per Unicode "\%u2014" gesucht werden.
+:%s/\([^ ]\+\)\%u2014\n\([^ ]\+\)/\r\1\2/g
+:%s/\([^ ]\+\)[-«»"]\n\([^ ]\+\)/\r\1\2/g
+
+Andere Ersetzungen:
+%s/\%u2014/-/g
 %s/]/J/g
 %s/O1/Öl/g
 %s/Ols/Öls/g

@@ -1,6 +1,7 @@
 :%s/\([^ ]\+\)\%u2014\n\([^ ]\+\)/\r\1\2/g
 :%s/\([^ ]\+\)[-«»"]\n\([^ ]\+\)/\r\1\2/g
-:%s/—/-/g
+:%s/\%u2014/-/g
+:%s/\%u201a/,/g
 :%s/]/J/g
 :%s/O1/Öl/g
 :%s/Ols/Öls/g
@@ -26,7 +27,9 @@
 :%s/äfl/äft/g
 :%s/äff/äft/g
 :%s/saff/saft/g
+:%s/Kraff/Kraft/g
 :%s/Luff/Luft/g
+:%s/ruff/ruft/g
 :%s/stofl/stoff/g
 :%s/ off / oft /g
 :%s/afi/aft/g
@@ -45,4 +48,7 @@
 :%s/breüg/breiig/g
 :%s/[’‘]c/t/g
 :%s/[’‘]sch/'sch/g
+:%s/[’‘<>\\]//g
+:%s/\([^.?!]\) Zu\([ \n]\)/\1 zu\2/g
+:%s/rnit/mit/g
 :wq
