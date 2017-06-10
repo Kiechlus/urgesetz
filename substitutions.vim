@@ -11,6 +11,7 @@
 :%s/d1/ch/g
 :%s/\([a-zA-Z]\)1\([a-zA-Z]\)/\1i\2/g
 :%s/\([a-zA-Z]\)5\([a-zA-Z]\)/\1s\2/g
+:%s/2\(\a\|[äöüÄÖÜß]\)/z\1/g
 :%s/3\([a-z]\)/s\1/g
 :%s/2u/zu/g
 :%s/nidit/nicht/g
@@ -48,7 +49,7 @@
 :%s/breüg/breiig/g
 :%s/[’‘]c/t/g
 :%s/[’‘]sch/'sch/g
-:%s/[’‘<>\\]//g
+:%s/[’‘<>\\{}]//g
 :%s/\([^.?!]\) Zu\([ \n]\)/\1 zu\2/g
 :%s/rnit/mit/g
 :wq
