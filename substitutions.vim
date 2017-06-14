@@ -52,4 +52,7 @@
 :%s/[’‘<>\\{}]//g
 :%s/\([^.?!]\) Zu\([ \n]\)/\1 zu\2/g
 :%s/rnit/mit/g
+:%s/aff /aft /g
+:%s/nng/ung/g
+:%s/ dern / dem /g
 :wq
