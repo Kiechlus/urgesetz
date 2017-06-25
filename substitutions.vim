@@ -29,6 +29,7 @@
 :%s/äff/äft/g
 :%s/saff/saft/g
 :%s/Kraff/Kraft/g
+:%s/kraff/kraft/g
 :%s/Luff/Luft/g
 :%s/ruff/ruft/g
 :%s/stofl/stoff/g
@@ -55,4 +56,5 @@
 :%s/aff /aft /g
 :%s/nng/ung/g
 :%s/ dern / dem /g
+:%s/Giff/Gift/g
 :wq
