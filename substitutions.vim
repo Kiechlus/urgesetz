@@ -33,6 +33,7 @@
 :%s/Luff/Luft/g
 :%s/ruff/ruft/g
 :%s/stofl/stoff/g
+:%s/Stofl/Stoff/g
 :%s/ off / oft /g
 :%s/afi/aft/g
 :%s/äfi/äft/g
