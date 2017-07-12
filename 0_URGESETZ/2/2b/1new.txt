@@ -130,7 +130,6 @@ auf natürliche Nahrung die letzten Reste von angestauten Salzlagern
 ausgeschieden, dann verschwindet auch der Salzgeschmack des
 Körperschweißes, wie es jetzt bei mir selbst der Fall ist.
 
-xxx
 Außer diesen Hauptbestandteilen Salpeter, Zucker und Kochsalz ist
 in den Pökelpräparaten und Fleischkonservierungsmitteln noch eine
 Spur weiterer Stoffe enthalten, die der chemischen Giftküche, nämlich
@@ -147,12 +146,12 @@ auf die Spur kommen.
 
 Bei der unvollkommenen Verbrennung von Holz- oder
 Brennmaterial, das zur Raucherzeugung bei der Räucherung Verwendung findet,
-entstehen Gase, die den bekannten Erzeugnissen der Teerabkörnme
-linge verwandt sind. Es sind zunächst phenolartige Substanzen wie
+entstehen Gase, die den bekannten Erzeugnissen der Teerabkömmlinge verwandt sind.
+Es sind zunächst phenolartige Substanzen wie
 Karbolsäure, Kresol, Kreosot und brenzliche Stoffe wie Formaldehyd,
 Essigsäure, Ameisensäure und andere. Diese teilweise sehr giftigen
 Stoffe durchdringen die Fleischstücke, verbinden sich mit diesen und
-erzeugen die Haltbarkeit durch ihre Eigenschaft als starke Lebensgiffe,
+erzeugen die Haltbarkeit durch ihre Eigenschaft als starke Lebensgifte,
 die sogar Gärungs- und Fäulniserreger töten und die Ware dadurch
 keimfrei halten. Glaube nur ja keiner, daß die in das Fleisch mit den
 Rauchgasen eingezogenen Stoffe sich irgendwie wieder verflüchtigen
@@ -166,7 +165,7 @@ Statt des Räucherns bedient man sich in solchen Fällen des Holzessigs,
 einer braunen, sauren und unangenehm teerig-rauchig riechenden
 Flüssigkeit, welche die brandigen, antiseptisch wirkenden Bestandteile
 enthält. Eine solche Schnellräucherflüssigkeit, die in Kürze das ganze
-Fl-eis-chstück durchdringt, besteht z. B. aus 100 Teilen Kreosot, 10
+Fleischstück durchdringt, besteht z. B. aus 100 Teilen Kreosot, 10
 Teilen Wacholderbeeröl, 100 Teilen Holzessig, verdünnt mit der zehnfachen
 Menge Wasser. In diese Flüssigkeit wird das vorher gepökelte
 Fleisch eingelegt und ist dann nach 36 bis 48 Stunden verkaufsbereit.
@@ -181,25 +180,26 @@ Die Deutschen im besonderen sind in der Welt bekannt als die
 Wurstesser. „Aber nur ein Gott kann Wurst essen, denn nur ein Gott
 kann wissen, was darin ist.“ Das hat schon Jean Paul gesagt.
 
-Bei der Fabrikation von Wurt wird dem gemahlenen Fleisch eine
+Bei der Fabrikation von Wurst wird dem gemahlenen Fleisch eine
 gewisse Wurstwürze beigegeben, die gewöhnlich noch Färbungs- und
 Konservierungsmittel enthält. Der Hauptbestandteile der Wurstwürze
 ist Salz, Zucker und Salpeter. Auf 1 Pfund Dauerwurst kommen etwa:
-17 g Kochsalz, 6,5 g Pfeffer, 1 g Rohzucker und 1/4 bis 1/2 g Salpeter,
+17 g Kochsalz, 6,5 g Pfeffer, 1 g Rohzucker und \nicefrac{1}{4} bis
+\nicefrac{1}{2} g Salpeter,
 dazu noch etwas Borsäure, Borax, Kalisalpeter, Natriumsulfat,
 vielleicht mit der Würze auch noch Benzoesäure und ähnliche
-Teerabkömmlinge. Es überübrigt sich nach dem bisher Gesagten, über die
-Schädlichkeit dieser Wurtsbeigaben etwas zu sagen. Aber es ist noch zu
+Teerabkömmlinge. Es erübrigt sich nach dem bisher Gesagten, über die
+Schädlichkeit dieser Wurstbeigaben etwas zu sagen. Aber es ist noch zu
 bemerken, daß viele Wurstwaren außerdem noch geräuchert werden oder
 im Schnellräucherverfahren mit den vorbeschriebenen Giften versehen
 wurden. Wir müssen noch bedenken, daß nicht nur die Wurst haltbar
-gemacht werden muß, sondern auch der Darm, in die sie hineingestopfl:
+gemacht werden muß, sondern auch der Darm, in die sie hineingestopft
 wird. Trotz alledem reicht die künstliche Behandlung und
 Haltbarmachung der Fleisch- und Wurstwaren nicht aus, um die Erzeugnisse
 vor Schimmel, üblem Geruch, Austrocknen, Madenbildung,
-Schmierigwerden und dergleichen zu schützen. Akute Wurstvergiffungen sind
+Schmierigwerden und dergleichen zu schützen. Akute Wurstvergiftungen sind
 beileibe keine Seltenheit, aber schlimmer ist die langsam schleichende,
 sich immer häufende Giftwirkung der bekannten Zusätze, durch welche
-manche der rätselhaffesten Krankheiten ihre Aufklärung finden
+manche der rätselhaftesten Krankheiten ihre Aufklärung finden
 könnten, wenn sich die Wissenschaftler mehr um diese Dinge kümmern
 würden.

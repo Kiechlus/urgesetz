@@ -58,4 +58,6 @@
 :%s/nng/ung/g
 :%s/ dern / dem /g
 :%s/Giff/Gift/g
+:%s/ifle/ifte/g
+:%s/0\/0/\\%/g
 :wq

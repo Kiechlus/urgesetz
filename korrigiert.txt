@@ -8126,7 +8126,7 @@ daß alle vom Tier stammenden Erzeugnisse ohne Ausnahme im
 menschlichen Körper wie schwere Gifte wirken und der Mensch viel leichter
 leben und sich gesunder ernähren könnte ohne diese verderblichen
 Genußmittel, die Not im Volke wäre mit einem Schlage gebannt. Über
-den Magen der Schlachttiere gehen über 85 0/0, ja bis 90 0/0 aller 
+den Magen der Schlachttiere gehen über 85 \%, ja bis 90 \% aller 
 erzeugten Nahrungsmittel für die menschliche Ernährung verloren, weil
 sie als Viehfutter Verwendung fanden. Ohne den Umweg über das
 Tier und bei entsprechendem Anbau nur für den Menschen bestimmter
@@ -11021,10 +11021,10 @@ Das Hasenkind dagegen soll das Geburtsgewicht innerhalb von 6
 Tagen verdoppeln. Das neugeborene Menschenkind aber erst in 150
 Tagen. Diesen Wachstumsverhältnissen ist die Zusammensetzung der
 Milch als Säuglingsnahrung angepaßt. Dementsprechend enthält die
-Brustmilch für das Kind nur etwa 0,23 0/0 Mineralstoffe 
+Brustmilch für das Kind nur etwa 0,23 \% Mineralstoffe 
 verschiedenster Art. Die Milch für das Kuhkalb mehr als dreimal soviel, da das
 Kuhkalb ja das Geburtsgewicht dreimal so schnell verdoppeln soll. Die
-Milch der Hasenmutter hat etwa 2,6 0/0, d. h. etwa zölfmal soviel 
+Milch der Hasenmutter hat etwa 2,6 \%, d. h. etwa zölfmal soviel 
 Mineralstoffe. Ähnlich verhält es sich mit dem Gehalt an Eiweißstoffen.
 Es wird ja heute auf genügenden Eiweißgehalt viel zu großes Gewicht
 gelegt. Die Natur weiß schon, warum die Früchte so wenig Eiweiß 
@@ -11529,7 +11529,7 @@ sie bei 50 Grad im Vakuum eingedickt. Wird kein Zucker zugesetzt,
 so wird sie bei 112 bis 114 Grad sterilisiert und dann nach Abkühlung
 in Blechdosen abgefüllt. Eine amerikanische Firma verwendet 
 folgendes Verfahren: Die Milch wird erst bei 95 Grad kurz vorgewärmt,
-dann im Vakuumverfahren auf 7,8 0/0 Fettgehalt eingedickt bei 
+dann im Vakuumverfahren auf 7,8 \% Fettgehalt eingedickt bei 
 Anwendung von überhitztem Dampf. Diese Milch wird dann homogeni-
 
 230
@@ -11885,7 +11885,7 @@ wissen, Kreosot und Karbolsäure. Das sind zwei sehr schwere Zellgifte,
 deren Giftwirkung die Konservierung bewirkt, unter gleichzeitiger 
 Erzeugung der goldgelben Verfärbung.
 
-Glaubt man wirklich, diese scharfen Gifle, die durch ihre 
+Glaubt man wirklich, diese scharfen Gifte, die durch ihre 
 konserrvz erende Wirkung beweisen, daß sie in das Fischfleisch eingedrungen
 sind, kann man ungestraft  verzehren und dem hochorganisierten 
 Stoffwechsel seines Körpers ohne schädigende Wirkungen anvertrauen? Gibt
@@ -11930,7 +11930,7 @@ Was ist Essig?
 Essig ist verdünnte Essigsäure. Diese entsteht bei der
 Essiggärung alkoholischer Getränke durch die Essigbakterien. Die reine
 Essigsäure ist wie jede andere Säure eine stechend sauer riechende,
-ätzende Flüssigkeit. In Essigkonserven mit 2 bis 3 0/0 Essigsäuregehalt
+ätzende Flüssigkeit. In Essigkonserven mit 2 bis 3 \% Essigsäuregehalt
 sind Bakterien und Krankheitserreger nicht mehr lebensfähig. Die 
 konservierende Wirkung beruht daher auf der Tatsache, daß die Essigsäure
 ein starkes Keimgift ist und ätzend und zerstörend auf lebende 
@@ -12025,7 +12025,7 @@ verständlich, wenn selbst Spuren von Zinnsalzen sich im Laufe der
 jahre in den Organen der Verbraucher zu ganz erheblichen Mengen
 anhäufen werden. Es ist doch fast unmöglich, diese mit der Nahrung in
 den Körper gelangten Schwermetallsalze wieder herauszubringen. Die
-vergiflende und lähmende Wirkung wird sich daher im Körper 
+vergiftende und lähmende Wirkung wird sich daher im Körper 
 anhäufen und im Laufe der Jahre schwere Störungen zeitigen. Man 
 bedenke, schon einige Milligramm können verheerende Wirkungen 
 auslösen.
@@ -12419,7 +12419,7 @@ Wenn sich nun die merkbaren Störungen nicht ergeben, so wird die
 faulige Zersetzung des Fettkörpers und der Fettsäure im Darm sich
 immer dann bemerkbar machen, wenn unverseifte Reste entstehen. Es
 entwickelt sich dabei der Schmerbauch. Die Vorgänge sind etwa 
-folgende: Die vers-eiflen Fettstoife sollen, wie gezeigt, die Grundlagen für
+folgende: Die vers-eiften Fettstoife sollen, wie gezeigt, die Grundlagen für
 die Gewebemasse der Muskeln und der mehr oder weniger festen Teile
 bilden. Alles, was nun nicht den Anforderungen entspricht, wird bei
 Seite geschoben und erstmal zwischen die eigentlichen Gewebe als
@@ -12557,7 +12557,7 @@ Leber Fettstoffe, die sich hier in Cholesterin umbilden und die Leber
 Verhärten und entarten lassen. Gleichzeitig gehen Fettstoffe weiter in
 die: Gallenblase und kommen hier vorzeitig mit den Gallensäften in
 innige Berührung. Es tritt eine Verseifung ein und die harten 
-verseiflen Fette erscheinen in der Galle als die gefürchteten Gallensteine
+verseiften Fette erscheinen in der Galle als die gefürchteten Gallensteine
 mit all den schlimmen Folgeerscheinungen, denen der davon Betroffene
 ausgesetzt ist, wenn die fürchterlichen Gallensteinkoliken eintreten.
 
@@ -12679,7 +12679,7 @@ aufs Herz. Die Ansicht, es gäbe unschädliche Fettlösungsmittel als Er
 
  
 
-satzstoffe für die fürchterlichen Blut- und Nervengifle, ist irrig. 
+satzstoffe für die fürchterlichen Blut- und Nervengifte, ist irrig. 
 Gerade die physikalisch-chemische Eigenschaft der starken Lösungskraft:
 für alle Öl- und Fettstoffe schließt in sich die starke Wirkung auf die
 Lipoide, die Fettstoffe in den Nerven, und damit auf die Struktur des
@@ -14032,7 +14032,7 @@ Marmelade genannt, hergestellt?
 Marmelade braucht erst dann als Kunstmarrnelade bezeichnet zu
 werden, wenn sie mit mehr als 25 0/o Obstrückständen aus anderen
 Fabrikationszweigen der Obstverwertung hergestellt ist oder an 
-Stärkesirup oder anderen Ersatzbestandteilen mehr als 50 0/0 enthält. Was
+Stärkesirup oder anderen Ersatzbestandteilen mehr als 50 \% enthält. Was
 diese Prozentsätze nicht erreicht, gilt als gute Fruchtmarmelade und die
 Hausfrau ahnt bestimmt nicht, was sich dahinter verbirgt. 
 Obstrückstände aller Art, Kerngehäuse und Kerne, Preßrückstände aus der 
@@ -17875,7 +17875,7 @@ So wird der Mutter die Geburt zur Qual, denn nach der Ernährung auf
 dem Umweg über die Tierwelt wirst du mit Schmerzen Kinder 
 gebären, so steht es geschrieben. Aber es kann noch schlimmer kommen.
 Wer seinen Bauch zur Grabstätte verwesender Leichent-eile macht, der
-darf sich nicht wundern, wenn sich die Leichengifle in seinem Körper
+darf sich nicht wundern, wenn sich die Leichengifte in seinem Körper
 festsetzen. Dann entstehen Geschwüre, Eiterbeulen im Körper und in
 der Haut. Setzen sich solche Geschwüre in den Organen der Frau fest,
 dann wird es lebensgefährlich. Es bilden sich Geschwülste, eitrige 
@@ -20164,7 +20164,7 @@ nicht mehr. In letzter Zeit haben die Gartenbauverbände dafür
 gesorgt, daß durch eine richtige Sortenauswahl nur beste tragfähige Arten
 zur Anpflanzung kommen. In einigen Jahrzehnten könnte es möglich
 sein, den ganzen Bedarf im eigenen Lande anzubauen. Ein ausgewachse
-ner Walnußbaum gibt regelmäßig bis zu zwei Zentnern ausgereifler
+ner Walnußbaum gibt regelmäßig bis zu zwei Zentnern ausgereifter
 Walnüsse. Es gibt Sorten mit sehr bitterer Haut über dem eigentlichen
 Kern und solche mit süßer, denen man beim Anbau den Vorzug geben
 sollte. Geschmacklich und in gesundheitlicher Beziehung ist die Walnuß
@@ -20281,17 +20281,17 @@ und das klare, reine Öl kann nach entsprechender Lagerung
 abgeschöpft werden. Gutes, fruchtig schmeckendes Olivenöl entwickelt 
 während dieser Lagerung einen kleinen Prozentsatz an freier Fettsäure.
 Dieser schwankt je nach der Länge der Lagerung zwischen 0,7 und
-0,9 0/0.
+0,9 \%.
 
 Da nun dieser kleine Gehalt an freier Fettsäure leicht anstößig wirkt
 und bei schon älterem Öl einen leicht kratzenden Geschmack 
 hinterläßt, so wird in den modernen Gewinnungsverfahren das Öl raffiniert
 und dadurch gleichzeitig geschmacklos, geruchlos und auch farblos 
-gemacht. Es wird dann zu etwa 20 0/0 mit frischem, vollwertigem 
+gemacht. Es wird dann zu etwa 20 \% mit frischem, vollwertigem 
 Olivenöl verschnitten. Bei der Analyse der raffinierten Öle wird dann 
 gewöhnlich nur ein Gehalt an freier Fettsäure von 0,20 0/o festgestellt
 und das Öl als blankes, helles Öl angeboten. Man beachte jedoch, daß
-ein naturreines Olivenöl gerne bis zu 0,8 0/0 freier Fettsäure enthalten
+ein naturreines Olivenöl gerne bis zu 0,8 \% freier Fettsäure enthalten
 darf.
 
 Ölpalmen. In der Margarineherstellung werden große Mengen an
@@ -20660,7 +20660,7 @@ wässert sein, ehe sie im Darm verwertet werden können. Auf Grund Zucker Öle P
 dieses Hinweises wird der Leser erkennen, warum die Tabellen um- Stärke Fettstoffe Eiwifße mAesrcüüxo e
 gerechnet wurden, trotzdem es keine natürliche Nahrung gibt, in deren 9 Spinat 42,0 4,5 28,0 25,5
 Saft nicht Wasser enthalten ist. Die Reihe der Mineralstoffe zeigt, Sellerie (Kraut) 59,0 233 20,5 18,2
-welche Nahrungsmittel reicher an Entgiflern und aufbauenden Grund- Mangold 56,0 5,9 20,5 17,6
+welche Nahrungsmittel reicher an Entgiftern und aufbauenden Grund- Mangold 56,0 5,9 20,5 17,6
 stoffen sind. Schließlich offenbart uns die Tabelle die Tatsache, daß die Lattich 54,0 5,0 23,5 17,5
 wasserreichsten Nahrungsmittel nach Abzug des Wassers gewöhnlich * Löwenzahn 62,5 4,8 19,6 13,1
 reicher an den lebensnotwendigen nährenden Grundstoffen sind, als Kohl 64,0 3,6 20,2 12,2
@@ -23839,7 +23839,7 @@ Erdbeeren und Himbeeren nicht.
 Zum Schluß noch ein kurzes Beispiel: Dem Verfasser wurden zwei
 Brüder bekannt, die beide die ausgesprochenen Symptome ziemlich
 fortgeschrittener Zuckerkrankheit zeigten. An schlimmen Tagen 
-erreichte der Zucker im Harn den gefährlichen Satz von 7 bis 8 0/0. 
+erreichte der Zucker im Harn den gefährlichen Satz von 7 bis 8 \%. 
 Beiden wurde der Zusammenhang der Entstehungsursachen mit den 
 Ernährungsgewohnheiten erklärt und entsprechende Verhaltungsmaßregeln
 gegeben. Der eine konnte sich von seinem Braten und den gewohnten
