@@ -1,12 +1,12 @@
-Süßmittel, Kochsalz, Gewürze
-und Genußmittelgifte
+\chapter{Süßmittel, Kochsalz, Gewürze
+und Genußmittelgifte}
 
-Fabrikzucker
+\section{Fabrikzucker}
 
 In allen Küchen auf dem weiten Erdenrund, in allen
 Lebensmittelindustrien, überall, wo Gerichte und Speisen für den Gaumen des
 Menschen schmackhaft gemacht werden sollen, verarbeitet der Mensch
-heute ein konzentriertes Genußmittel: den F a b r i k 2 u c k e r. Ohne
+heute ein konzentriertes Genußmittel: den \textls{Fabrikzucker}. Ohne
 diesen könnte eine Hausfrau oder eine Lebens- und Genußmittelfabrik
 kaum noch auskommen. Wo vor Jahrhunderten hin und wieder ein
 wenig Honig zum Süßen an die Speisen getan wurde, da verwendet
@@ -18,8 +18,8 @@ noch denkbar ist.
 Die Grundlage zur Gewinnung von Zucker ist in Europa die
 Zuckerrübe und in den Tropen und tropischen Gebieten das Zuckerrohr. Das
 Erzeugnis daraus ist in beiden Fällen sogenannter Invertzucker, d. h.
-ein zweiwertiger Zucker, der aus je einem Kern von einwertigem Traun
-benzucker und einem Kern Fruchtzucker besteht, die eng aneinander
+ein zweiwertiger Zucker, der aus je einem Kern von einwertigem Traubenzucker
+und einem Kern Fruchtzucker besteht, die eng aneinander
 gekoppelt sind. Zu Beginn der Zuckersiederei wurden die Zuckerrüben
 oder das Zuckerrohr gekocht und ausgequetscht und der dünne Saft
 solange gekocht, bis der Sirup teilweise kristallisierte. Die Zuckerkristalle
@@ -36,19 +36,10 @@ Kalk schlägt die Lauge nieder, fällt aber gleichzeitig alle Vitamine und
 Mineralstoffe aus dem Saft heraus. In die mit Ätzkalk vermischte
 Flüssigkeit wird Kohlensäure geleitet, um den Kalk abzuscheiden. Um den
 Zuckersaft von der faserigen Lauge und dem Kalk zu befreien, wird er
-
-295
-
-
-
-
-
-in Filtrierpressen gep-umpt und der dünne Saft mit Kalziumsulfit
+in Filtrierpressen gepumpt und der dünne Saft mit Kalziumsulfit
 behandelt, um den Saft zu bleichen. Der so durch die schweflige Säure
-gebleichte Zuckersaft wird dann zu Dicksaft eingedampft und anschlie-
-
-ßend im Vakuum bis zur Kristallisation gekocht. Durch Ausschleudern
-
+gebleichte Zuckersaft wird dann zu Dicksaft eingedampft und anschließend
+im Vakuum bis zur Kristallisation gekocht. Durch Ausschleudern
 in einer Zentrifuge wird der Rohzucker vom Sirup getrennt.
 
 Um den im Sirup verbliebenen Zuckerrest herauszuholen, der nur
@@ -75,7 +66,7 @@ Fabrikationsvorganges ist dann der Kristallzucker, der Staubzucker,
 der Würfelzucker, der Hutzucker, der Kandiszucker usw. Man sieht
 diesem glänzend weißen kristallinischen Gefüge seine Herkunft aus der
 Zuckerrübe wirklich nicht mehr an. Er hat ja auch mit einem
-pflanzlichen Nahrungsmittel rein gar nichts mehr zu tun, der er ja ein rein
+pflanzlichen Nahrungsmittel rein gar nichts mehr zu tun, da er ja ein rein
 chemisches Erzeugnis, das Produkt eines umfangreichen chemischen
 Prozesses aus der Zuckerrübe ist. Was ihm an Reststoffen und giftigen
 Farben aber noch anhaften kann, das erzählt sein Aussehen nicht, denn
@@ -84,26 +75,21 @@ Körper auch nicht mehr wie ein pflanzliches Nahrungsmittel verwertet
 werden, sondern wirkt wie ein in Wasser lösliches chemisches Produkt.
 
 Der gesundheitliche Wert des Fabrikzuckers ist von Anfang an viel
-umstritten werden. Man rühmt ihm seine leichte Aufnahmefähigkeit
-nach und verweist darauf, daß doch die Zuckerst-offe in den Pflanzen
+umstritten worden. Man rühmt ihm seine leichte Aufnahmefähigkeit
+nach und verweist darauf, daß doch die Zuckerstoffe in den Pflanzen
 überhaupt die Grundlage der Ernährung für Tier und Mensch sind.
 Was ist richtig?
 
-Prof. Dr. A. Katase von der medizischen Akademie zu Osaka,
-Japan, hat im Jahre 1931 eine kurz gefaßte Broschüre über die Er--
-
-296
-
-
-
-gebnisse langjähriger Nahrungsmitteluntersuchungen von ihm selbst,
+Prof. Dr. A. Katase von der medizinischen Akademie zu Osaka,
+Japan, hat im Jahre 1931 eine kurz gefaßte Broschüre über die Ergebnisse
+ langjähriger Nahrungsmitteluntersuchungen von ihm selbst,
 seinen Assistenten und Hörern veröffentlicht, die von den deutschen
 Wissenschaftlern wohl zur Kenntnis genommen, aber nicht ausgewertet,
-sondern übergangen werden sind. Hier sind kurz gefaßt die
+sondern übergangen worden sind. Hier sind kurz gefaßt die
 Ergebnisse:
 
 Prof. Dr. Katase und seine Assistenten verwendeten bei ihren
-lang-jährigen Versuchen nur den weniger behandelten raffinierten
+langjährigen Versuchen nur den weniger behandelten raffinierten
 Rohrzucker und keinen Rübenzucker. Als Versuchstiere kamen vor allem
 Kaninchen, Meerschweinchen, Tauben und Hunde in Frage. Zur
 Hauptsache also pflanzenfressende Tiere, da Hunde hauptsächlich zur
@@ -114,7 +100,7 @@ täglich entwickelten sich bei jungen wachsenden Tieren bemerkenswerte
 Veränderungen am Knochensystem: Erweichung der Knochensubstanz,
 die mit dem Messer schneidbar wurde, Neigung zu Knochenbrüchen,
 Verbiegungen und Umknickungen der Röhrenknochen, Entwicklung
-von Kno-chenwucherungen. Dazu kamen noch mikroskopisch
+von Knochenwucherungen. Dazu kamen noch mikroskopisch
 wahrnehmbare Veränderungen wie: Verschmälerung der Gelenkfugen,
 starke Verkürzung, ja, zuweilen Verschwinden der Knorpelpfeiler,
 Erweiterung und Ineinanderfließen der Haverschen Röhren im Gefüge
@@ -137,21 +123,12 @@ hat.
 Die Ursachen der Erkrankungen konnten in einer durch die
 Zuckerzufütterung entstandenen Säfteversäuerung nachgewiesen werden, da
 die Injektion von verdünnter Salzsäure die gleichen Erscheinungen
-aus-löste.
+auslöste.
 
 Die gleichen Knochenveränderungen wurden durch Verfütterung
 von einwertigem Zucker wie Traubenzucker und Fruchtzucker erzeugt,
 d. h. die ein- und zweiwertigen Zuckerarten im Invertzucker der
-fabrikmäßigen Herstellung sind die Ursachen, während die Stärke--
-
-297
-
-
-
-
-
-
-
+fabrikmäßigen Herstellung sind die Ursachen, während die Stärke-
 Zuckerarten im Getreide und in Kartoffeln diese krankhaften
 Erscheinungen nicht hervorriefen. Diese werden nicht so leicht vom Körper
 aufgenommen wie der freie chemisch reine Zucker. Alle noch in der
@@ -176,7 +153,7 @@ Säfteübersäuerung. Mit den Knochenerkrankungen Hand in Hand ging eine
 Überfunktion und eine Überentwicklung der Nebenschilddrüsenkörperchen
 als Folge des übermäßigen und anormalen Kalkstoffwechsels.
 
-Die Knochenveränderungen zeigen sich bei weiterenUntersuchungen
+Die Knochenveränderungen zeigen sich bei weiteren Untersuchungen
 am ganzen Knochensystem. Die Brustform artet aus zu
 ausgesprochener Hühnerbrustform. Zunahme der Höhe des Beckens und Abnahme
 der Breite desselben konnte immer wieder festgestellt werden, ferner
@@ -196,11 +173,6 @@ Aber die Ausfalls- und Entartungserscheinungen bleiben nicht etwa
 auf die erwähnten Zustandsveränderungen im Knochenbau beschränkt.
 Mit dem Knochensystem in Zusammenhang steht die Entwicklung der
 Kiefer und der Zähne. Hier aber treten die Fehlentwicklungen offen
-
-298
-
-
-
 zu Tage. Es können aber auch mikroskopisch und röntgenologisch
 wahrnehmbare Veränderungen festgestellt werden. Die infolge der
 unrichtigen Ernährung durch ein Zuviel an Kunstzucker
@@ -213,7 +185,7 @@ ungenügende Entwicklung und Verkalkung, d. h. Brüchigwerden des
 Zahnbeins.
 
 Hält die Blutübersäuerung an, so stellen sich fortschreitender
-Knochenschwund im Kiefer und OP: faserige Entartung ein, d. h. die
+Knochenschwund im Kiefer und oft faserige Entartung ein, d. h. die
 gleichen Erscheinungen wie am gesamten Knochenbau. Die
 beschriebenen Veränderungen in der Kieferknochen- und Zahnbildung geben
 dann die Grundlage zu den schmerzhaften Wurzelhautentzündungen
@@ -228,7 +200,7 @@ Die Säfteübersäuerung hemmt und verzögert die Entwicklung der
 quergestreiften und der glatten Muskeln und beeinflußt die
 Entwicklung des Herzens in auffallender Weise. Das Herz der jungen
 wachsenden Tiere blieb kleiner als das der Kontrolltiere und oft kam es zur
-Entwicklung eines ausgesprochenen Kleinherzen-s oder gar eines
+Entwicklung eines ausgesprochenen Kleinherzens oder gar eines
 Tropfenherzens. Gleichzeitig verwandelte sich die wachsende Gebärmutter
 durch die Wachstumshemmung als Folge der Säfteübersäuerung zu
 einem ausgesprochen infantilen Organ, d. h., es blieb auf kindlicher
@@ -247,15 +219,8 @@ Nun zeigt es sich beim Vergleich mit verschiedenen
 Ernährungsversuchen, daß die Versäuerung der Säfte nicht nur durch Fabrikzucker
 erzeugt werden kann, sondern die gleichen Erscheinungen entwickeln
 sich durch vom Tier stammende eiweißhaltige Genußmittel, die, wie
-schon gezeigt wurde, sehr schwere Blutversäuerung hervorrufen kön-
-
-299
-
-
-
-
-
-nen. Man vergleiche die Entstehung der Säfteübersäuerung in den
+schon gezeigt wurde, sehr schwere Blutversäuerung hervorrufen können.
+Man vergleiche die Entstehung der Säfteübersäuerung in den
 entsprechenden Abschnitten. Prof. Katase aber erzeugte sie noch auf eine
 andere Art, nämlich durch die zusätzliche Verfütterung von künstlich
 behandelten Speiseölen zum normalen Futter. Auch hier trat eine
@@ -263,14 +228,14 @@ ausgesprochene Säfteübersäuerung mit den gleichen Folgen für die
 Knochen, die Muskeln und die Organe ein.
 
 Daraus ergibt sich die Möglichkeit, durch raffinierte oder chemisch
-extrahierte Speiseöle und Fette krankhaft:e Folgeerscheinungen im
+extrahierte Speiseöle und Fette krankhafte Folgeerscheinungen im
 Wachstum des kindlichen Körpers hervorzurufen. Die Ursache der
 Entartung durch die raffinierten, präparierten und verschnittenen Speiseöle
 müssen wir dabei in der Tatsache suchen, daß ein freies, chemisch fast
 reines Speiseöl oder Speisefett sich nur schwer, wenn überhaupt, in die
 zur Verseifung im Zwölffingerdarm notwendige Form der
 feinstofflichen Emulsion bringen läßt, in der das Öl sich in den Pflanzen
-vor-findet. Die Zerstörung der Ganzheit des Nahrungsmittels und die
+vorfindet. Die Zerstörung der Ganzheit des Nahrungsmittels und die
 chemische Behandlung, die Raffination und Umwandlung des Ölgehaltes
 bewirkt in diesem Fall die Unmöglichkeit einer ordnungsmäßigen
 Verseifung, ermöglicht aber gleichzeitig wie beim Zucker einen Übertritt
@@ -286,7 +251,7 @@ Das ist auch der Grund, warum man in Speiseölfabriken keinen
 Zement- oder Betonfußboden brauchen kann. Die Ölsäure entzieht dem
 Zement den Kalk und der Beton oder der Fußboden wird dadurch
 erweicht. Es ist die gleiche Erscheinung wie die Knochenerweichung durch
-Ubersäuerung, ganz einerlei durch welche Genuß- und Nahrungsmittel
+Übersäuerung, ganz einerlei durch welche Genuß- und Nahrungsmittel
 sie entstanden ist.
 
 Bei diesen Gedankenentwicklungen und Untersuchungen fällt
@@ -299,11 +264,6 @@ Nahrung mit Zucker schmackhaft zu machen und sie außerdem noch durch
 besondere Zuckerverarbeitungen und Aufbereitungen wie Bonbons,
 süße Leckerlis, Speiseeis, Konditorwaren usw. zu überfüttern. Welche
 Mutter gönnt denn ihren Kindern nicht gerne einmal eine Zuckerstange
-
-300
-
-
-
 oder gibt ihnen keine süßen Fruchtmuse und Marmeladen? Dann
 verzehren Kinder und Erwachsene liebend gern die mit dem Pulver der
 Kakaobohne vermischten Zuckeraufbereitungen, die als Schokolade
@@ -329,7 +289,7 @@ ein wachsender kindlicher Organismus 0,25 bis 0,3 Gramm
 Kunstzucker je Tag und je Kilogramm Körpergewicht ohne sichtbaren
 Schaden verarbeiten kann. Jedes Gramm darüber aber, besonders über 0,5
 Gramm, erzeugt die oben beschriebenen Entartungserscheinungen und
-krankhaffen Veränderungen. Ein Säugling von 3 bis 4 kg Gewicht
+krankhaften Veränderungen. Ein Säugling von 3 bis 4 kg Gewicht
 dürfte deshalb je Tag nur höchstens 1 Gramm Zuckerzusatz erhalten,
 d. h. praktisch jeder Zuckerzusatz zur Nahrung ist gefährlich. Ein
 Kind von 20 kg Gewicht kann entsprechend etwa 6 Gramm je Tag
@@ -342,7 +302,7 @@ durch Kochen usw. entzogenen und zerstörten erdigen Grundstoffe in
 der gewachsenen Nahrung und die Zerstörung aller ausgleichenden
 Wirkstoffe und pflanzlichen und tierischen Hormone und Enzyme
 durch die Feuershitze. Eine im übrigen gesunde und einwandfreie
-Er-nährung, bestehend aus Früchten, Gemüsen, Wurzelgemüsen und
+Ernährung, bestehend aus Früchten, Gemüsen, Wurzelgemüsen und
 Nüssen in rohem, lebenskräftigem Zustand könnte praktisch jeden Schaden
 dadurch ausgleichen, daß der hohe natürliche Mineralstoffgehalt derart
 natürlicher Nahrung den Schaden durch Versäuerung gar nicht erst
@@ -353,7 +313,7 @@ aufkommen ließe, sondern die Säure in der Entstehung gleich abbinden
 
 
 
-
+xxx
 und neutralisieren würde. Aber zu der an sich schon krankmachenden
 Wirkung der landesüblichen Ernährung mit dem Kochtopf und der
 Bratpfanne tritt nun noch der erhöhte Genuß von Kunstzucker im
