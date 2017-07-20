@@ -128,8 +128,8 @@ auslöste.
 Die gleichen Knochenveränderungen wurden durch Verfütterung
 von einwertigem Zucker wie Traubenzucker und Fruchtzucker erzeugt,
 d. h. die ein- und zweiwertigen Zuckerarten im Invertzucker der
-fabrikmäßigen Herstellung sind die Ursachen, während die Stärke-
-Zuckerarten im Getreide und in Kartoffeln diese krankhaften
+fabrikmäßigen Herstellung sind die Ursachen, während die Stärkezuckerarten
+im Getreide und in Kartoffeln diese krankhaften
 Erscheinungen nicht hervorriefen. Diese werden nicht so leicht vom Körper
 aufgenommen wie der freie chemisch reine Zucker. Alle noch in der
 Ganzheit der pflanzlichen Bindung befindlichen Zuckerstoffe löst der
@@ -307,13 +307,6 @@ Nüssen in rohem, lebenskräftigem Zustand könnte praktisch jeden Schaden
 dadurch ausgleichen, daß der hohe natürliche Mineralstoffgehalt derart
 natürlicher Nahrung den Schaden durch Versäuerung gar nicht erst
 aufkommen ließe, sondern die Säure in der Entstehung gleich abbinden
-
-301
-
-
-
-
-xxx
 und neutralisieren würde. Aber zu der an sich schon krankmachenden
 Wirkung der landesüblichen Ernährung mit dem Kochtopf und der
 Bratpfanne tritt nun noch der erhöhte Genuß von Kunstzucker im
@@ -326,30 +319,29 @@ schreckliche Zunahme der Zahnerkrankungen und der Zahnkaries und über
 die Neigung zu allen möglichen Krankheiten im kindlichen Alter.
 
 Bei Erwachsenen zeigt sich die Auswirkung des zusätzlichen
-Zuckergenusses nicht so gefahrvo-ll und offensichtlich, aber doch ganz
+Zuckergenusses nicht so gefahrvoll und offensichtlich, aber doch ganz
 ausgeprägt. Die Übersäuerung der Säfte tritt in der gleichen Art auf, aber
 der Bedarf an Kalk und mineralischen Grundstoffen ist nicht mehr so
 erheblich wie im wachsenden Körper des Kindes, und so wird den
-Knochen nur soviel Kalk entzogen, wie zur Neutralisati-on der Säure
+Knochen nur soviel Kalk entzogen, wie zur Neutralisation der Säure
 unbedingt erforderlich ist. Die aus der Abbindung der Säuren
 gebildeten Kalksalze werden dann nicht ausgeschieden, sondern verbleiben in
-den Blut- und Nervenbahn-en und an all den Stellen, wo sie sich
+den Blut- und Nervenbahnen und an all den Stellen, wo sie sich
 gebildet haben. Sie lagern sich dort an den Gefäßwandungen und in den
 Zellgewebswänden ab und langsam, ganz langsam, aber unaufhaltsam
-bildet sich eine hauehdünne Schicht von Kalksalzen. Diese verstärkt
+bildet sich eine hauchdünne Schicht von Kalksalzen. Diese verstärkt
 sich nun im Laufe der Jahre und wird immer fester und spröder, und,
 ehe man es sich versieht, ist die Adernverkalkung und die Verkalkung
 der Nerven und des Gehirns eine vollendete Erscheinung, die man
 geneigt ist, als nicht zu vermeidende Alterserscheinung zu betrachten.
-jetzt sehen wir plötzlich, daß sie nicht eine Erscheinung des natürlichen
+Jetzt sehen wir plötzlich, daß sie nicht eine Erscheinung des natürlichen
 Alterns ist, sondern eine einfache Folge der Unnatur in der Ernährung
 der Menschen. Diese wird solange auftreten, wie die heute
 landesübliche Ernährung mit der Zuckerschwelgerei währen wird. Erst ein
 Umschwung in den Ernährungsgewohnheiten der Menschen wird auch
-
 darin Wandel schaffen.
 
-Kunsthonig
+\section{Kunsthonig}
 
 Bei der Fabrikation von Kunsthonig wird der Unnatur und der
 Geschmacksverirrung der Menschen noch mehr Vorschub geleistet als beim
@@ -357,18 +349,13 @@ Kunstzucker. Die Grundlage dieses Kunsthonigs ist wie bekannt der
 chemisch reine Fabrikzucker. Dieser wird mit einer verdünnten Säure
 zusammen verkocht. Es entsteht dadurch eine innige Verbindung, eine
 sogenannte Veresterung des Zuckers mit der Säure. Durch diese wird
-der Kristallzucker in eine weiche streichfähige Masse von der Kon-
-
-302
-
-
-
-sistenz des Honigs verwandelt und als Kunsthonig zum Brotbelag
+der Kristallzucker in eine weiche streichfähige Masse von der Konsistenz
+ des Honigs verwandelt und als Kunsthonig zum Brotbelag
 angeboten.
 
 Alles das, was über den Zucker gesagt wurde, gilt uneingeschränkt
 ja in erhöhtem Maße auch für den Kunsthonig. Die Gefahr der
-Entwicklung gifliger und zerstörender Säurewirkungen im Körper aber
+Entwicklung giftiger und zerstörender Säurewirkungen im Körper aber
 wird verstärkt durch die Einwirkung der Säure beim Kochen des
 Kunstzuckers, da ja von dieser zur Veresterung des Zuckers
 gebrauchten Säure Rückstände bleiben. Diese werden bei der Fabrikation des
@@ -377,21 +364,21 @@ eher, da sie ja als freie Säuren in den Körper gelangen oder im Körper
 und in den Geweben der Organe frei werden und nun ihr
 Zerstörungswerk entfalten.
 
-Gibt es auxC dem weiten Erdenrund wirklich keine Behörde, kein
+Gibt es auf dem weiten Erdenrund wirklich keine Behörde, kein
 Hygienisches Institut, kein Gesundheitsamt, in welchem die Erhaltung
 und Pflege der Gesundheit der Menschen unter allen Umständen und
 allen privatwirtschaftlichen Verdienstmöglichkeiten zum Trotz oberstes
 Gesetz ist?
 
-Süßstoff
+\section{Süßstoff}
 
 Der unwidersprochen giftige Charakter der in rein chemischen
 Verfahren aus den Bestandteilen der Teerabkömmlinge hergestellten
 Süßstoffe, sei es Dulcin, Sacharin oder ähnliches, ist so bekannt, daß es sich
 erübrigt, darüber viele Worte zu verlieren. Unbegreiflich ist es nur,
 daß so schwer Stoffwechselkranken wie Diabetikern oder
-Zuckerkran-ken das Süßen ihrer Speisen mit Süßstoff dieser Art nicht nur gestattet,
-Sondern geradezu angeraten wird. Es ist ferner unbegreiflich, daß die
+Zuckerkranken das Süßen ihrer Speisen mit Süßstoff dieser Art nicht nur gestattet,
+sondern geradezu angeraten wird. Es ist ferner unbegreiflich, daß die
 Gesundheitsbehörden es überhaupt zulassen, daß chemischer Süßstoff
 bei der Herstellung von billigen alkoholfreien Getränken verwendet
 wird, und es immer noch deutsche Länder gibt, in denen es erlaubt ist,
