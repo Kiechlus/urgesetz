@@ -1,4 +1,4 @@
-Kochsalz
+\section{Kochsalz}
 
 Durch den Erhitzungsvorgang beim Kochen, Backen, Braten usw.
 lösen sich, wie mehrfach gezeigt, die erdigen Grundstoffe, die
@@ -10,7 +10,7 @@ den an natürlichen Zucker gebundenen Würzstoffen ergeben den
 Geschmack und die Eigenart der pflanzlichen Nahrung. Wir finden diese
 besonders ausgeprägt im Obst und in den Früchten aller Art, in den
 heimischen Gewürzkräutern und in den gebräuchlichen
-Küchenkräu-tern. In der Kochhitze gehen jedoch alle aromatischen Duft- und
+Küchenkräutern. In der Kochhitze gehen jedoch alle aromatischen Duft- und
 Würzstoffe verloren. Die Nase spürt im Küchendunst ihr Vorhandensein in
 der Luft als Zeichen dafür, daß sie der Nahrung verloren gegangen
 sind. Die kräftig anregenden organischen Mineralstoffverbindungen
@@ -39,20 +39,13 @@ zum Einbau in das Gewebe verwenden. Es muß so wieder aus dem
 Körper heraus, wie es hineingekommen ist, chemisch und stofflich
 unverändert.
 
-Nun ist das Kochsalz eine grob-stoffliche, chemische Verbindung von
+Nun ist das Kochsalz eine grobstoffliche, chemische Verbindung von
 zwei Stoffen, die wie Gift wirken, wenn sie dem menschlichen Körper
-
-304
-
-
-
-
-
-in chemisch reiner Form einverleibt würden. Wir alle wissen, dan
+in chemisch reiner Form einverleibt würden. Wir alle wissen, daß
 Chlor jedes Gewebe verätzt und auflöst und alle Ölstoffe und Fette
 zerfrißt. Es macht deshalb die Wäsche so schön blendend weiß zum
 Schaden des Gewebes. Natrium, in anorganischer Form genommen, ist
-Wie jedes freie Metall ein organisches Gift, das nur dann zum Aufbau
+wie jedes freie Metall ein organisches Gift, das nur dann zum Aufbau
 körpereigener Stoffe Verwendung finden kann und seinen Zweck im
 Blute z. B. nur dann erfüllt, wenn es vorher in die zur Nahrung
 bestimmten Pflanzen feinstofflich, organisch gebunden hineingewachsen
@@ -63,16 +56,16 @@ und verbrennt gewissermaßen die Geschmackswärzchen auf der Zunge.
 Sobald sich nun ein Mensch erst an den Geschmack des Kochsalzes als
 Würze zu seinen gekochten Speisen gewöhnt hat, d. h., daß seine
 Geschmacksorgane und die Nerven darin durch die Schärfe des Salzes
-abgestumpft und verderben wurden, dann empfindet er nachher nur als
-wür21g, was noch stärker anregt als das Salz. Ein Mensch, der den
+abgestumpft und verdorben wurden, dann empfindet er nachher nur als
+würzig, was noch stärker anregt als das Salz. Ein Mensch, der den
 Salzzusatz als Würze der Speisen übertreibt, wird einem ungesalzenen
 Genußmittel und einer ungesalzenen Speise überhaupt keinen
 Geschmack mehr abgewinnen können. Das Obst erscheint ihm fade, er ißt
-eskaum mehr, und wenn er schon einmal eine Tomate verzehren will
-Wird er sie bestimmt salzen. Die verpökelte Zunge wird unfähig, die
+es kaum mehr, und wenn er schon einmal eine Tomate verzehren will,
+wird er sie bestimmt salzen. Die verpökelte Zunge wird unfähig, die
 natürliche Würze der Früchte und Kräuter wahrzunehmen. Wegen
 seiner Schärfe aber erfüllt das Salz einen anderen Zweck ganz
-wunderbar. Es üb-ertönt den Verwesungsgeschmack und die Fadheit der
+wunderbar. Es übertönt den Verwesungsgeschmack und die Fadheit der
 Fleischspeisen und der vom geschlachteten Tier stammenden
 Genußmittel. Da nun die Zunge durch das Salz einen unrichtigen, viel zu
 starken Reiz empfängt, so werden die Absonderungsdrüsen der
@@ -82,27 +75,20 @@ jede fressende und beizende Wirkung auf die feinen Schleimhäute des
 Darmkanals und der Körpergewebe zu verhindern. Aber bei
 lebenslangem Gebrauch und Gewöhnung an Kochsalz von Kindheit an
 werden die Schäden auf die Dauer nicht zu unterdrücken sein, auch wenn
-die natürliche Lebenskrafc immer wieder neue Wege findet, das Salz
+die natürliche Lebenskraft immer wieder neue Wege findet, das Salz
 unschädlich zu machen. Zuerst staut der Körper es in ungefährliche
 Lager ab, oft in den Knochen, oft in fettartigen Gebilden, es entstehen
 im Körper Salzlager. Wenn das nicht mehr geht, versucht der Körper,
 es herauszuschwemmen. Dazu gibt der Körper Gewebewasser frei, das
 vom Salz wie bei jeder Pökelung begierig aufgesogen und gebunden
 wird. Aber zur Entfernung dieser Salzlösung müßte eine erhöhte
-Nie-rentätigkeit einsetzen, die nun außer mit den Restsäuren aus den
-
-305
-
-
-
-
-
+Nierentätigkeit einsetzen, die nun außer mit den Restsäuren aus den
 Fleischspeisen auch noch mit der Entfernung der
 Salzaufschwemmungen fertig werden muß. Versagen die Nieren und ihr Zubringerorgan,
 die weiße fettartige Masse, welche die Verbindung des Bauchwassers
 und des Inhaltes des Darmes mit den Nieren herstellt, so zeigen sich
 gar zu leicht Wasserschwellungen im Körper, sogenannte
-„Wasserödeme“.
+\textit{„Wasserödeme“.}
 
 Diese entstehen nicht etwa, weil das Herz zu schwach ist und
 deshalb das in die Beine gesackte Wasser nicht mehr nach oben ziehen
@@ -124,41 +110,32 @@ weitere Wassermassen aus dem Körper nicht mehr aufsaugen. Diese
 bleiben im Körpergewebe sitzen und sacken nach unten. Sie sammeln
 sich zuerst in den Beinen. Gleichzeitig kann der Dickdarm seine
 Aufgabe der Eindickung des Darminhaltes durch Überführung des Wassers
-in die Flornen und von dort in die Nieren nicht mehr erfüllen. Die
+in die Flomen und von dort in die Nieren nicht mehr erfüllen. Die
 Nieren erhalten dann nicht mehr das nötige Wasser. Sie scheiden nur
 noch wenig ab, der Harn wird trüb und dick, die Nieren erkranken
 und es zeigen sich die bekannten Stoffwechselstörungen der an
 Wassersucht Leidenden.
 
 Salzgenuß und Salzschwelgerei ist die Ursache dieser
-Gesundheitsstörungen. Da nun die Kochkunst ohne Salz nicht aus kommen kann,
+Gesundheitsstörungen. Da nun die Kochkunst ohne Salz nicht auskommen kann,
 weil in den gekochten Speisen die natürlich gewachsenen Mineralstoffe
 des Bodens in den Gemüsen durch die Kochhitze ausfallen oder während
 des Kochens für den Körper unbrauchbare Verbindungen eingehen, so
 können die Gewebesäfte nicht mit der lebendigen Spannkraft durch den
 Körper fließen, wie es bei natürlicher Rohnahrung der Fall ist. Der
-Mensch wird mineralstoffarm und damit kraftzlos. Das überträgt sich
+Mensch wird mineralstoffarm und damit kraftlos. Das überträgt sich
 auch auf das Herz und die bluterzeugenden und blutbewegenden
-Orgame. Auch der Herzmuskel wird dann kraftlos. Wenn dann noch die
+Organe. Auch der Herzmuskel wird dann kraftlos. Wenn dann noch die
 Wasserstauungen im Dickdarm von unten auf das Herz drücken und
-
-306
-
-
-
-
-
-
-
 den Muskel an der Arbeit hindern, dann könnte man wirklich
 versucht sein, die wassersüchtigen Erscheinungen mit einem Versagen des
 Herzens in Verbindung zu bringen. In Wirklichkeit aber ist die
 Salzschwemme der Kochkost die Ursache. Die Heilung erfolgt selbsttätig
 durch den lebendigen Mineralstoffgehalt der Gemüse- und
-Obstrohnahmng.
+Obstrohnahrung.
 
 Wird den Organen des Körpers, etwa der Leber oder der
-Bauchspeicheldrüse, zur Überwindung der Salzschwemrne Wasser entzogen,
+Bauchspeicheldrüse, zur Überwindung der Salzschwemme Wasser entzogen,
 so kommt es zu Schrumpfungen lebenswichtiger Organe und diese
 werden zur weiteren Arbeit untüchtig. Wird trotz allem immer mehr Salz
 gegessen, dann muß schließlich die Haut die ganze Last der
@@ -172,8 +149,8 @@ der Spannkraft enden schließlich, wie schon erwähnt, im Salzfluß.
 
 Besonders gefährlich wird die Wirkung des Salzes im Körper bei
 Lungenleiden aller Art, da es die feinen Lungengewebe und die
-Lungenschleimhaut angreifl und sie zur Abwehr gegen schädigende
-Einflüsse untüchtig macht. Sehr OPC ist das eine der maßgeblich-en Ursachen
+Lungenschleimhaut angreift und sie zur Abwehr gegen schädigende
+Einflüsse untüchtig macht. Sehr oft ist das eine der maßgeblichen Ursachen
 der ersten Lungenentzündung. Auf dieser Erfahrung beruht die
 Verordnung der salzfreien Diät bei Lungenleiden nach Gerson, Sauerbruch,
 Hermannsdorfer und anderen.
@@ -183,9 +160,7 @@ der Frau einstellen. Auch diese werden gezwungen, wie alle anderen
 schleimhautüberzogenen Gebilde im Körper, das überschüssige Salz aus
 dem Körper fortzuschaffen. Salizylsäure und wässerige Salzlösungen
 zusammen mit Schwächung durch Kunstzucker können den normalen
-
 Blutfluß so ungünstig beeinflussen, daß die Gefahr des Verblutens zu
-
 ungewöhnlichen Maßnahmen zwingt. Man beachte noch, übermäßiger
 Salzzusatz verschont auch die Nerven nicht und greift das Gehirn
 genau so an wie jedes andere Organ im Körper. Die erregende Wirkung
@@ -198,14 +173,7 @@ Beine, Herzklopfen usw.
 Wir dürfen unter keinen Umständen auf den Gedanken verfallen,
 daß das Salz vielleicht fähig wäre, sich in Magensalzsäure umzubilden
 oder daß das Natrium im Salz sich günstig auf die Blutkraft auswirken
-
-307
-
-
-
-
-
-könnte. Wenn es möglich wäre, das anorganische Chl-ornatrium im
+könnte. Wenn es möglich wäre, das anorganische Chlornatrium im
 Körper aufzuspalten in Natrium und Chlor, dann würde die Gefahr
 der Verätzung und der Bildung von scharfen Säuren im Körper gar
 nicht auszudenken sein. Deshalb hat der Körper nicht die Fähigkeit
@@ -215,7 +183,7 @@ gesunden lebenskräftigen Pflanzenwuchs feinstofflich organisch gebunden und
 in das Zellgewebe der Pflanze richtig eingebaut sein, wenn sie zum
 Aufbau körpereigener Gewebe im Menschen Verwendung finden sollen.
 
-Pfeffergewürze
+\section{Pfeffergewürze}
 
 Der Mensch hat durch den Salzzusatz seine Geschmacksorgane
 verätzt und abgestumpft. Es bedarf daher um so stärkerer Anregungen,
@@ -248,32 +216,23 @@ Schleimhäute im Zwölffingerdarm und im Dünndarm würden sonst
 Schaden nehmen und sie zur Nahrungsaufnahme und Verarbeitung
 untüchtig machen. Die mikroskopisch feinen Darmzotten dürfen unter
 keinen Umständen angegriffen werden und so bildet der ganze
-Verdauungsorganismus sofort eine Übermenschliches leistende Arbeitsge-
-
-308
-
-
-
-
-
-
-
-meinschaft, um jeden Schaden durch das brennende, ätzende Zeug zu
+Verdauungsorganismus sofort eine Übermenschliches leistende
+Arbeitsgemeinschaft, um jeden Schaden durch das brennende, ätzende Zeug zu
 verhindern. Dadurch aber werden sie gehindert, ihrer wirklichen
 Aufgabe gerecht zu werden und die Umwandlung der Nahrung in
 brauchbare Aufbaustoffe für den Körper vorzubereiten. Scharfe Gewürze,
 dauernd genommen, zerstören im Laufe der Jahre auch den gesündesten
 Magen und machen ihn untüchtig für seine Arbeit. Die Folgen sind
-Magenentzüdungen und Reizungsherde in der Magenschleimhaut mit
+Magenentzündungen und Reizungsherde in der Magenschleimhaut mit
 allen daraus sich entwickelnden Folgen.
 
 Aber das ist wahrlich nicht alles. Chemisch betrachtet gehören alle
 pfefferigen, scharfen Gewürze in die Gruppe der Alkaloide. Das sind
 stickstoffhaltige Kohlenstoffverbindungen von ausgesprochen basischem
 Charakter. Sie alle sind nervenlähmende, das Gehirn auflösende Gifte.
-Die bekanntesten in dieser Gruppe der Genußgiffe sind Nikotin im
+Die bekanntesten in dieser Gruppe der Genußgifte sind Nikotin im
 Tabak, Morphin in den Opiaten, Chinin, durch dessen lähmende
-Eigenschaften man das Malariafteber zu bekämpfen hoflfe, das Atropin
+Eigenschaften man das Malariafieber zu bekämpfen hoffte, das Atropin
 der Tollkirsche, das Strychnin in den Brechnüssen, das Piperin in den
 verschiedenen Pfeffersorten und das Sinapin im Senfsamen. Würde es
 möglich sein, Pfeffer in größeren Mengen zu verzehren, so würden die
@@ -286,7 +245,7 @@ Gegenteil, seine Verdauung zu heben und zu verbessern, weil die
 erhöhte Absonderung der Speichel- und Magensaftdrüsen diesen Zustand
 vortäuscht.
 
-Kaffee, Tee, Kakao
+\section{Kaffee, Tee, Kakao}
 
 Da rasselt am Morgen der Wecker. Die Pflicht ruft zur
 Unterbrechung des Schlafes, aber man fühlt sich doch noch nicht so richtig.
@@ -295,26 +254,17 @@ anregt und alle Müdigkeit vergessen läßt? Oder man hat ein gutes
 Mahl eingenommen und fühlt sich so richtig satt und wegen der viel zu
 reichlichen Arbeit der Verdauungsorgane unlustig und gereizt. Wie
 schnell ist das überwunden durch eine Tasse Mokka oder heißen
-Bohnenkaffee mit dem so anregenden Herzgiff darin? Wie angenehm ist so
+Bohnenkaffee mit dem so anregenden Herzgift darin? Wie angenehm ist so
 ein kleiner Kaffeerausch! Wie plaudert es sich da so angeregt, wie
 glänzen die Augen, wie röten sich die Wangen! Aber wie verheerend
 ist die Wirkung im Körper! Das Coffein im Kaffee ist wiederum ein
-schweres Gift und zwar ein Blutgiff wie das in Leichengift sich
+schweres Gift und zwar ein Blutgift wie das in Leichengift sich
 wandelnde Xanthin im Tierfleisch, das dem Kulturmenschen zur Speise
-dient. Coffein, der wirksame Stoff im Kaffee, ist eine Purinbase ähn-
-
-309
-
-
-
-
-
-mmaemmmwmsmmm
-
-lich der Harnsäurebildner im Tierfleisch. Bei deren Auflösung bildet
+dient. Coffein, der wirksame Stoff im Kaffee, ist eine Purinbase ähnlich
+ der Harnsäurebildner im Tierfleisch. Bei deren Auflösung bildet
 sich neben anderen Blut- und Nervengiften Harnsäure. Die Lebenskraft
 sucht sich gegen diese heißen erregenden Gifte zu wehren und beginnt
-deshalb fieberhaft zu arbeiten. Die StoffWechselvorgänge und damit die
+deshalb fieberhaft zu arbeiten. Die Stoffwechselvorgänge und damit die
 Arbeit des Blutes wird erhöht, das beschleunigt das Herz. Die damit
 zusammenhängende Erregung der Nerven täuscht auch dem ermüdeten
 Menschen neue Spannkraft vor, so daß er sich gar zu gern über seinen
@@ -329,12 +279,12 @@ wird dadurch süchtig auf die krankhafte Erregung. Es summieren sich
 die täglichen kleinen Schäden und bringen auch die kräftigste und
 gesündeste Konstitution und das gesündeste Herz zur Strecke, wenn nicht
 vorher schon durch Nervenüberreizung eine geistige Verkümmerung
-oder gar Geistekrankheit einsetzt.
+oder gar Geisteskrankheit einsetzt.
 
 Außer dem Coffein findet sich im Kaffee noch das Alkaloid
 „Trigonellin“, dies ist ein Abkömmling eines kohlensauren Pyridinkörpers
 und für den Körper ein starkes Gift. Die Wirkung dieses Giftes ist
-bisher no-ch kaum untersucht. Man hat es scheinbar wegen des
+bisher noch kaum untersucht. Man hat es scheinbar wegen des
 vorherrschenden Coffeins ganz übersehen.
 
 Das eigentliche Aroma des Kaffees ist das Kaffeeöl. Bei seiner
@@ -352,20 +302,11 @@ Aber auch die Aufbereitung des Kaffees und das Rösten geht nicht
 ohne bedenkliche Kunstgriffe vor sich. Um in der Farbe unansehnliche
 Sorten zu „schönen“, setzt man, je nach Bedarf, gelbe oder grüne Farbe
 zu, die alle miteinander der chemischen Giftküche entstammen.
-Bleifarb-en sind dabei ebenso beliebt wie Teerfarbstoffe. Um aber nach dem
+Bleifarben sind dabei ebenso beliebt wie Teerfarbstoffe. Um aber nach dem
 Rösten das Verdunsten des Aromas zu verhüten und eine Lagerung zu
 ermöglichen, überzieht man die Bohnen während des Röstens mit
-Zuckerhaltigen Stoffen, die eine tiefbraune Farbe ergeben oder mit
+zuckerhaltigen Stoffen, die eine tiefbraune Farbe ergeben oder mit
 Gummi, Glyzerin, Harzen, Schellack u. a. Da aber die Überzüge teuer
-
-310
-
-
-
-
-
-
-
 sind, nimmt man zum Kollophonium, einem Rückstand aus der
 Terpentingewinnung, und ähnlichen Lösungen und Mischungen seine
 Zuflucht. Das Glasieren ist ein allgemein üblicher Gebrauch. Alles das
@@ -378,7 +319,7 @@ Coffein in der Arzneimittelherstellung ein viel begehrter Stoff ist, so
 wird er in chemischen Fabriken aus der Kaffeebohne chemisch
 extrahiert und rein dargestellt. Die Extrahierung geschieht in der bekannten
 Weise der chemischen Ölgewinnung. Die Bohnen werden nach
-Aufquellen im Wasserdampf mit Ather, Azeton, Benzol,
+Aufquellen im Wasserdampf mit Äther, Azeton, Benzol,
 Tetrachlorkohlenstoff oder ähnlichen Mitteln behandelt. Diese entziehen der Bohne mit
 dem Öl das Coffein bis auf geringe Spuren. Das freie Coffein wird
 dann durch Abdestillieren, Reinigen und Filtrieren gewonnen. Über
@@ -400,24 +341,17 @@ Unterschied besteht nur in der schwächeren Lösung im Teegetränk und
 in dem Fehlen der Röstgifte. Auch der schwächste Kaffeeaufguß ist im
 Giftgehalt mindestens doppelt so stark wie ein guter Teeaufguß.
 Deshalb die nachhaltigere Wirkung des Kaffees und der darin enthaltenen
-Röstgift-e.
+Röstgifte.
 
 Kakao wird aus den Samenkernen des prachtvollen, aus dem
-tropischeri Amerika stammenden Kakaobaumes gewonnen. Linne gab ihm .
-den Namen: Theobroama : Götterspeise. Von diesem Linneschen
+tropischen Amerika stammenden Kakaobaumes gewonnen. Linne gab ihm
+den Namen: Theobroama = Götterspeise. Von diesem Linneschen
 Namen hat der wirksame Stoff im Kakao seinen Namen
 „Theobromin“. Dieses Theobromin ist dem Coffein ähnlich, aber nicht identisch.
 Neben diesem an sich giftigen Alkaloid enthält die Kakaobohne dann
 noch eine Spur von Coffein. Beide zusammen ergeben die Anregungen,
 die aber deshalb nicht so energisch sind wie beim Coffein, weil das
 Theobromin so schwer löslich ist. Trotzdem kann der Genuß von
-
-311
-
-
-
-
-
 100 Gramm und mehr Reinkakao zu Schweißausbruch,
 Pulsverlangsamung, Zittern und anderem führen. Die eigenartige Wirkung des mit
 Zucker gemischten Kakaopulvers liegt darin, daß es den
@@ -427,7 +361,7 @@ Anschein erweckt, als ob man gekräftigt und auch besser ernährt wäre.
 In Wirklichkeit hat sich bei ausgedehnten Ernährungsversuchen
 erwiesen, daß die scheinbare Stärkung auf einer Täuschung beruht. Durch
 die Zurückhaltung des Zuckerstoffwechsels und die dadurch bedingte
-Aufschwemrnung neigen die Gewebe zur Fäulnis. Den Beweis dafür hat
+Aufschwemmung neigen die Gewebe zur Fäulnis. Den Beweis dafür hat
 uns ein englischer Arzt in Indien erbracht, der drei zum Tode
 verurteilten Verbrechern die Freiheit versprach, wenn sie folgende
 Versuche überstehen würden:
@@ -442,19 +376,19 @@ Leichenöffnung zeigte sich, daß die Innenwände der Adern tatsächlich
 verbrannt waren.
 
 Der Dritte, der nur mit Tee ernährt wurde, starb am Hungertode
-nach Ablauf von 2 jahren.
+nach Ablauf von 2 Jahren.
 
-Die südamerikanischen Kakaobohnen müssen eine S-elbstgärung
+Die südamerikanischen Kakaobohnen müssen eine Selbstgärung
 durchmachen. Der Zucker, der sich im äußeren Fruchtmus der ganzen
 Kakaofrucht befindet, wird dabei in Alkohol vergoren. Nachher setzt
 dann eine Essiggärung ein. Die Essiggärung beginnt dann auf den
 Kern der Bohne einzuwirken. Durch diese Gärung wird die
-Lebensund Keimkraft des Samens vernichtet und die Kernmasse beginnt in
+Lebens- und Keimkraft des Samens vernichtet und die Kernmasse beginnt in
 Fäulnis überzugehen und zu verrotten. Hier unterbricht man den
 Prozeß der Vorbereitung und die Bohne wird gewaschen und getrocknet.
 In den Verbraucherländern werden die Bohnen dann bei etwa 130 bis
 140 Grad geröstet und gemahlen. Die Kakaomasse wird entölt durch
-die bekannte chemisch-e Extrahierung und Destillierung mit
+die bekannte chemische Extrahierung und Destillierung mit
 nachfolgender Reinigung der Masse. Um eine bessere Verteilung bei der
 Zubereitung als Getränk zu ermöglichen, wird das entölte Kakaopulver mit
 Soda, Pottasche, Magnesiumkarbonat, Hirschhornsalz oder ähnlichen
@@ -464,16 +398,6 @@ entölten und mit Alkalien behandelten Kakaopulvers ist die Grundlage
 für die beliebten Getränke. Mit 50 Prozent Zucker und mehr
 vermischt, mit „Kakaobutter“, Trockenmilchpulver und Gewürzen
 versetzt, bildet es die Grundlage der Schokoladenerzeugnisse.
-
-312
-
-
-
-„.
-
-
-
-
 
 Kakaobutter werden die Fett- und Ölstoffe genannt, die bei der
 Aufbereitung der Kakaobohnen zum entölten Kakaopulver auf
@@ -490,11 +414,11 @@ chemischer Verwandtschaft zu Chinin, Atropin, Ergotin, Nikotin,
 Morphin und anderen. Alle diese verlieren in saurer Lösung einen Teil
 ihrer Giftwirkung, werden also im Körper des versäuerten
 Fleischessers bedingt vertragen. Daraus bildete sich der Trugschluß, daß
-M arte-Tee, hergestellt aus den Blättern einer brasilianischen Ilexart, ein
+\textit{Mate-Tee}, hergestellt aus den Blättern einer brasilianischen Ilexart, ein
 Harnsäurefeind sei und der Versäuerung durch Fleischspeisen
-ent-gegenwirke. Inzwischen haben brasilianische Ärzte festgestellt, daß das
+entgegenwirke. Inzwischen haben brasilianische Ärzte festgestellt, daß das
 Coffein im Mate-Tee sich in nichts von dem im Kaffee oder
-CeylonTee unterscheidet. Das Ilexblatt hat einen größeren Gehalt an Coffein
+Ceylon-Tee unterscheidet. Das Ilexblatt hat einen größeren Gehalt an Coffein
 als das Blatt des Teestrauches und wirkt deshalb, dauernd getrunken,
 fast so schlimm wie Kaffee, besonders bei der bekannten einseitigen
 Ernährung der ärmeren Brasilianer und Argentinier. In alkalischer
